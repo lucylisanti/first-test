@@ -1,0 +1,27 @@
+header {
+  text-align: center;
+  background: #f1dcf2;
+  padding: 10px;
+}
+h1 {
+  color: #474047;
+  font-size: 70px;
+  font-family: "courier new", courier, monospace;
+  background: #f1dcf2;
+}
+ul {
+  background: #f1dcf2;
+  padding: 10px;
+}
+ul li {
+  display: inline;
+  color: #474047;
+  font-size: 50px;
+  padding: 0px 25px 0px 25px;
+  font-family: "courier new", courier, monospace;
+  border: 3px solid #474047;
+  background: white;
+}
+a {
+  color: #474047;
+}
